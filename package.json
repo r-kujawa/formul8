@@ -1,7 +1,7 @@
 {
   "name": "formul8",
   "version": "1.0.0",
-  "description": "Elegant axios wrapper for form requests to a Laravel backend. Inspired by Inertia's useForm. ",
+  "description": "Elegant axios wrapper for form requests to a Laravel backend. Inspired by Inertia's useForm.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/r-kujawa/formul8/issues"
   },
-  "homepage": "https://github.com/r-kujawa/formul8#readme"
+  "homepage": "https://github.com/r-kujawa/formul8#readme",
+  "dependencies": {
+    "axios": "^1.8.4"
+  }
 }
